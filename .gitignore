@@ -1,0 +1,65 @@
+# OS Specific Files #
+######################
+.DS_Store
+Thumbs.db
+._*
+*.swp
+*.swo
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+
+# Editor Specific Files #
+#########################
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and Temp Files #
+#######################
+*.log
+*.tmp
+temp/
+tmp/
+*.bak
+*.sw*
+
+# Dependency Folders #
+######################
+node_modules/
+bower_components/
+jspm_packages/
+yarn-error.log
+
+# Inkscape Files #
+#################
+*.svg.bak
+
+# Private Files #
+################
+private/
+config.json
+.env
+
+# Ignore zip, rar etc #
+######################
+*.zip
+*.rar
+*.7z
+
+# Miscellaneous #
+################
+# Cache Folders
+__pycache__/
+
+# System Files
+System Volume Information/
+$RECYCLE.BIN/
+
+# Desktop.ini (Windows)
+Desktop.ini
+
+# Customizations #
+################
+# Depends on the future of the project
